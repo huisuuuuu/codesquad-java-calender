@@ -4,7 +4,7 @@ public class Ex1 {
 
 	public static void main(String[] args) {
 		
-		System.out.println(" ÀÏ ¿ù  È­ ¼ö  ¸ñ ±Ý  Åä ");
+		System.out.println(" ï¿½ï¿½ ï¿½ï¿½  È­ ï¿½ï¿½  ï¿½ï¿½ ï¿½ï¿½  ï¿½ï¿½ ");
 		System.out.println("--------------------");
 
 		int day = 1;
