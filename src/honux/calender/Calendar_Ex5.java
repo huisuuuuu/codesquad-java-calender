@@ -38,8 +38,8 @@ public class Calendar_Ex5 {
 			System.out.println();
 		}
 	}
-
-	public static void main(String[] args) {
+	
+	public static void runPrompt() {
 		
 		Scanner sc = new Scanner(System.in);
 		
@@ -57,5 +57,11 @@ public class Calendar_Ex5 {
 				sc.close();
 			}
 		}
-}
+	}
+
+	public static void main(String[] args) {
+		
+		runPrompt();
+		
+	}
 }
